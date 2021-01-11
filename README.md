@@ -10,7 +10,7 @@ In this analysis, the following two folders are created:
 
 [PyBank](https://github.com/Grace-Bijun-Li/python-challenge/tree/main/PyBank)
 <br>
-[PyPoll](https://github.com/Grace-Bijun-Li/python-challenge/tree/main/PyBank)
+[PyPoll](https://github.com/Grace-Bijun-Li/python-challenge/tree/main/PyPoll)
 
 
 *Each* of the above folders includes three files:
